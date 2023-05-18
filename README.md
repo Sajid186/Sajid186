@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajid186</h1>
+<h1 align="center">Hi 👋, I'm Sajid</h1>
 <h3 align="center">A passionate CSE undergrad from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid186&label=Profile%20views&color=0e75b6&style=flat" alt="sajid186" /> </p>
